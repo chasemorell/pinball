@@ -34,7 +34,7 @@ Components:
 - 2x green LEDS
 - Wires
 
-The code for the pinball machine can be found here.
+The code for the pinball machine can be [found here](https://github.com/chasemorell/pinball/blob/master/Pinball.ino).
 
 ![Image of Electronics of Machine](https://github.com/chasemorell/pinball/blob/master/electronicsPinball.jpg)
 ## 3D Designed Part
