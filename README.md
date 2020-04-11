@@ -22,7 +22,16 @@ The pinball machine has a simple playing field. The ball is launched up a channe
 
 The flipper button is the only way to interact with the electronics of the pinball machine. The flipper is used to move the ball through the playing field. 
 
-## Code 
+## Electronics and Code 
+
+Components:
+- Arduino Uno
+- Servo motor
+- Breadboard
+- Button
+- Resistors
+- 2x green LEDS
+- Wires
 
 The code for the pinball machine can be found here.
 
