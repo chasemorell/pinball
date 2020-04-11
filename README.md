@@ -43,7 +43,7 @@ I would have liked to create a 3D printed flipper. While the wooden one I create
 
 [Link to onShape file](https://cad.onshape.com/documents/e1839cab42a1d32a6161df75/w/365f358b001e7a3448edb66f/e/1c37f95e75e92e7a8051a66f)
 
-![Image of 3D flipper](https://github.com/chasemorell/pinball/blob/master/3D flipper model.png)
+![Image of 3D flipper](https://github.com/chasemorell/pinball/blob/master/3DflipperModel.png)
 
 ## Conclusion
 
