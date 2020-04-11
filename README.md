@@ -35,6 +35,10 @@ Components:
 
 The code for the pinball machine can be found here.
 
+## 3D Designed Part
+
+I would have liked to create a 3D printed flipper. While the wooden one I created works, a solid 3d printed one would be better. 
+
 ## Conclusion
 
 This project was both exciting and challenging. With more time and resources, I would like to add a scoreboard and interactive targets on the playing field. Still, the pinball machine is fun to play, albiet a bit simple. 
