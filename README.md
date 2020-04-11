@@ -36,6 +36,7 @@ Components:
 
 The code for the pinball machine can be found here.
 
+![Image of Electronics of Machine](https://github.com/chasemorell/pinball/blob/master/electronicsPinball.jpg)
 ## 3D Designed Part
 
 I would have liked to create a 3D printed flipper. While the wooden one I created works, a solid 3d printed one would be better. 
