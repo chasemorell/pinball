@@ -45,7 +45,7 @@ I would have liked to create a 3D printed flipper. While the wooden one I create
 
 This project was both exciting and challenging. With more time and resources, I would like to add a scoreboard and interactive targets on the playing field. Still, the pinball machine is fun to play, albiet a bit simple. 
 
-##Video
+## Video
 [Watch video](https://drive.google.com/file/d/1eTc9DmjkQzJBPm3TPY0fm5l2B28I1N1D/view?usp=sharing)
 
 
