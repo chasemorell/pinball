@@ -41,6 +41,8 @@ The code for the pinball machine can be [found here](https://github.com/chasemor
 
 I would have liked to create a 3D printed flipper. While the wooden one I created works, a solid 3d printed one would be better. 
 
+[Link to onShape file](https://cad.onshape.com/documents/e1839cab42a1d32a6161df75/w/365f358b001e7a3448edb66f/e/1c37f95e75e92e7a8051a66f)
+
 ## Conclusion
 
 This project was both exciting and challenging. With more time and resources, I would like to add a scoreboard and interactive targets on the playing field. Still, the pinball machine is fun to play, albiet a bit simple. 
