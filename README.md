@@ -4,7 +4,7 @@ The goal of this project was to create a simple pinball machine using an Arduino
 
 ## Construction 
 
-The pinball machine is made from birch plywood. The pieces were cut using a handsaw. With a few exceptions, every part is glued together. There are 3 main components of this simple pinball machine: the "flipper," the "launcher," and the "playing field." 
+The pinball machine is made from birch plywood. The pieces were cut using a handsaw. With a few exceptions, every part is glued together. The machine was spray painted white. There are 3 main components of this simple pinball machine: the "flipper," the "launcher," and the "playing field." 
 
 ### Flipper
 
@@ -14,9 +14,21 @@ The flipper is constructed from stacked popsicle sticks. It is attached to a ser
 
 Devising a simple launching mechanism for the ball from household objects was difficult. After much tinkering, an adequate mechanism was created. It uses a spring from a mechanical highlighter, a golf tee, and a plastic cap. 
 
-### Playing field
+### Playing Field
 
 The pinball machine has a simple playing field. The ball is launched up a channel on the left and into a hole in the back panel. It re-emerges on the right side. If not enough power is applied, the ball will go into the hole, only to roll back to the launcher. There are 2 circular obstacles on the playing field, as well as a rubber band and 2 LED lights that fade on and off. The player looses when the ball falls back into the launch channel. 
+
+## Interaction
+
+The flipper button is the only way to interact with the electronics of the pinball machine. The flipper is used to move the ball through the playing field. 
+
+## Code 
+
+The code for the pinball machine can be found here.
+
+## Conclusion
+
+This project was both exciting and challenging. With more time and resources, I would like to add a scoreboard and interactive targets on the playing field. Still, the pinball machine is fun to play, albiet a bit simple. 
 
 
 
